@@ -17,7 +17,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-.contenedor {
+.container {
 	max-width: 1000px;
 	width: 90%;
 	margin: 0 auto;
@@ -31,7 +31,7 @@ a:hover {
 	position: relative;
 	margin-bottom: 50px;
 }
-.card__thumbnail {
+.cardThumbnail {
 	width: 650px;
 	height: 200px;
 	margin-right: 20px;
@@ -39,16 +39,16 @@ a:hover {
 	overflow: hidden;
 	display: inline-block;
 }
-.card__img {
+.cardImg {
 	width: 100%;
 }
-.card__title {
+.cardTitle {
 	font-family: 'Raleway';
 	font-size: 30px;
 	font-weight: normal;
 	margin-bottom: 20px;
 }
-.card__link {
+.cardLink {
 	line-height: 28px;
 	color: #6D6D6D;
 	margin-bottom: 20px;
@@ -73,7 +73,7 @@ a:hover {
 	background: #2c2899;
 	text-decoration: none;
 }
-.button--absolute {
+.buttonAbsolute {
 	position: absolute;
 	right: 20px;
 	bottom: -25px;
